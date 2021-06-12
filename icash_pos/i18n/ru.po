@@ -1,0 +1,81 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#       * icash_pos
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0-20200725\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-26 11:01+0000\n"
+"PO-Revision-Date: 2021-01-26 11:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_product.xml:0
+#, python-format
+msgid "Products"
+msgstr "Продукты"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_order_selector_widget.xml:0
+#, python-format
+msgid "Receipt"
+msgstr "Заказ"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_order_selector_widget.xml:0
+#, python-format
+msgid "Receipt status"
+msgstr "Статус заказа"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_order_selector_widget.xml:0
+#, python-format
+msgid "All receipts"
+msgstr "Все заказы"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_order_selector_widget.xml:0
+#, python-format
+msgid "Sum"
+msgstr "Сумма"
+
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_order_selector_widget.xml:0
+#, python-format
+msgid "Receipt number"
+msgstr "Номер заказа"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_order_control_panel.xml:0
+#, python-format
+msgid "Comment to the check"
+msgstr "Коментарий к чеку"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_screen_image_view.xml:0
+#, python-format
+msgid "Exit"
+msgstr "Выход"
+
+#. module: icash_pos
+#. openerp-web
+#: code:addons/icash_pos/static/src/xml/pos_screen_image_view.xml:0
+#, python-format
+msgid "Mobile version"
+msgstr "Мобильная версия"
+
